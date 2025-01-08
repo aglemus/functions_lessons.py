@@ -45,6 +45,7 @@ display_invoice("Valeria", 42.50, "01/01")
 
 # Return = statement used to end a function
         # and send a result back to the caller.
+#Return means "stop there, youre done"
 # You cannot put anything at the end of a Return.
 # When you use a return, you change the data on the original function
 #### A function becomes whatever is returned.
